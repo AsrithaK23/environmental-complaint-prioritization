@@ -1,0 +1,841 @@
+complaint_id,complaint_text,category,source_type
+SYN-0381,Vehicles are creating excessive noise near the garden.,Noise Pollution,synthetic
+SYN-0814,An unidentified environmental problem has been reported at the canteen.,Other,synthetic
+SYN-0164,There is an unpleasant sewage smell around the sports ground.,Water / Sanitation,synthetic
+SYN-0717,Broken branches are lying near the main entrance.,Greenery / Landscaping,synthetic
+SYN-0343,Dust is spreading from the road near the courtyard.,Air Pollution,synthetic
+SYN-0162,The washbasins at the bus stop are not draining properly.,Water / Sanitation,synthetic
+SYN-0754,The area near the hostel requires a general environmental review.,Other,synthetic
+SYN-0031,The bins near the sports ground have not been emptied for several days.,Waste Management,synthetic
+SYN-0667,A damaged plant bed near the water station needs attention.,Greenery / Landscaping,synthetic
+SYN-0166,The drain near the hostel is blocked.,Water / Sanitation,synthetic
+SYN-0355,The air around the classroom block smells strongly of fumes.,Air Pollution,synthetic
+SYN-0464,Generator noise is disturbing people near the courtyard.,Noise Pollution,synthetic
+SYN-0046,The waste collection area near the auditorium smells unpleasant.,Waste Management,synthetic
+SYN-0175,The sanitation facilities near the garden need maintenance.,Water / Sanitation,synthetic
+SYN-0157,There is an unpleasant sewage smell around the administration office.,Water / Sanitation,synthetic
+SYN-0434,Construction noise can be heard inside the classroom block.,Noise Pollution,synthetic
+SYN-0207,There is standing water near the canteen after cleaning.,Water / Sanitation,synthetic
+SYN-0731,There is an unusual environmental concern near the courtyard.,Other,synthetic
+SYN-0101,Food waste has been left unattended near the washroom.,Waste Management,synthetic
+SYN-0061,Food waste has been left unattended near the library.,Waste Management,synthetic
+SYN-0264,Smoke is spreading across the administration office.,Air Pollution,synthetic
+SYN-0537,The outdoor lights near the science laboratory remain on during daylight.,Energy-related Issues,synthetic
+SYN-0212,Water is being wasted because a tap near the classroom block will not close.,Water / Sanitation,synthetic
+SYN-0402,Vehicles are creating excessive noise near the canteen.,Noise Pollution,synthetic
+SYN-0766,Please inspect the surroundings of the main entrance for an environmental issue.,Other,synthetic
+SYN-0010,The dustbin at the auditorium is overflowing.,Waste Management,synthetic
+SYN-0672,The landscaped area at the second-floor corridor is full of weeds.,Greenery / Landscaping,synthetic
+SYN-0043,The dustbin at the campus road is overflowing.,Waste Management,synthetic
+SYN-0699,Plants near the auditorium are drying out and need watering.,Greenery / Landscaping,synthetic
+SYN-0732,An environmental maintenance concern was noticed at the auditorium.,Other,synthetic
+SYN-0533,The lights in the second-floor corridor are not turning off.,Energy-related Issues,synthetic
+SYN-0388,Noise from nearby work is affecting the quiet environment at the campus road.,Noise Pollution,synthetic
+SYN-0079,The waste collection area near the bus stop smells unpleasant.,Waste Management,synthetic
+SYN-0727,The campus environment near the workshop may require further assessment.,Other,synthetic
+SYN-0648,The grass around the second-floor corridor has become overgrown.,Greenery / Landscaping,synthetic
+SYN-0267,Dust clouds are entering the auditorium during construction.,Air Pollution,synthetic
+SYN-0089,There are no usable waste bins near the courtyard.,Waste Management,synthetic
+SYN-0698,Garden waste has been left near the washroom.,Greenery / Landscaping,synthetic
+SYN-0410,Generator noise is disturbing people near the main entrance.,Noise Pollution,synthetic
+SYN-0316,Dust is spreading from the road near the science laboratory.,Air Pollution,synthetic
+SYN-0023,Food waste has been left unattended near the back gate.,Waste Management,synthetic
+SYN-0822,An unidentified environmental problem has been reported at the auditorium.,Other,synthetic
+SYN-0205,The sanitation facilities near the hostel need maintenance.,Water / Sanitation,synthetic
+SYN-0380,Loud machinery is disturbing people near the canteen.,Noise Pollution,synthetic
+SYN-0307,A smoky smell is coming from the area beside the second-floor corridor.,Air Pollution,synthetic
+SYN-0702,The garden beside the library is poorly maintained.,Greenery / Landscaping,synthetic
+SYN-0133,The washbasins at the canteen are not draining properly.,Water / Sanitation,synthetic
+SYN-0360,The air around the parking area smells strongly of fumes.,Air Pollution,synthetic
+SYN-0633,The green space near the washroom requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0099,The waste collection area near the main block smells unpleasant.,Waste Management,synthetic
+SYN-0831,An environmental maintenance concern was noticed at the parking area.,Other,synthetic
+SYN-0478,Construction noise can be heard inside the administration office.,Noise Pollution,synthetic
+SYN-0460,Vehicles are creating excessive noise near the classroom block.,Noise Pollution,synthetic
+SYN-0214,Water is being wasted because a tap near the administration office will not close.,Water / Sanitation,synthetic
+SYN-0220,A water tap is leaking near the hostel.,Water / Sanitation,synthetic
+SYN-0206,The drain near the back gate is blocked.,Water / Sanitation,synthetic
+SYN-0104,Waste is attracting flies near the workshop.,Waste Management,synthetic
+SYN-0397,Excessive honking is disturbing the area around the bus stop.,Noise Pollution,synthetic
+SYN-0804,There is an unresolved environmental concern around the washroom.,Other,synthetic
+SYN-0674,The landscaped area at the sports ground is full of weeds.,Greenery / Landscaping,synthetic
+SYN-0145,A water tap is leaking near the canteen.,Water / Sanitation,synthetic
+SYN-0442,Repeated loud announcements are disturbing the back gate.,Noise Pollution,synthetic
+SYN-0270,The air around the science laboratory smells strongly of fumes.,Air Pollution,synthetic
+SYN-0429,Noise from nearby work is affecting the quiet environment at the classroom block.,Noise Pollution,synthetic
+SYN-0291,Someone is burning waste near the canteen.,Air Pollution,synthetic
+SYN-0477,Continuous drilling noise is coming from beside the water station.,Noise Pollution,synthetic
+SYN-0006,Waste is being dumped beside the canteen.,Waste Management,synthetic
+SYN-0665,The plants around the second-floor corridor are not being maintained.,Greenery / Landscaping,synthetic
+SYN-0208,The drain near the workshop is blocked.,Water / Sanitation,synthetic
+SYN-0500,The lighting system near the library is consuming energy unnecessarily.,Energy-related Issues,synthetic
+SYN-0037,Mixed garbage is piling up outside the back gate.,Waste Management,synthetic
+SYN-0265,Exhaust fumes are collecting near the science laboratory.,Air Pollution,synthetic
+SYN-0774,There is an unusual environmental concern near the garden.,Other,synthetic
+SYN-0540,Electricity appears to be wasted near the administration office.,Energy-related Issues,synthetic
+SYN-0519,Several lights near the main entrance are damaged.,Energy-related Issues,synthetic
+SYN-0673,Plants near the hostel are drying out and need watering.,Greenery / Landscaping,synthetic
+SYN-0105,Waste is attracting flies near the bus stop.,Waste Management,synthetic
+SYN-0241,The air quality around the sports ground seems poor because of dust.,Air Pollution,synthetic
+SYN-0216,There is an unpleasant sewage smell around the science laboratory.,Water / Sanitation,synthetic
+SYN-0799,A concern about the campus environment has been raised near the hostel.,Other,synthetic
+SYN-0225,A water tap is leaking near the administration office.,Water / Sanitation,synthetic
+SYN-0561,The outdoor lights near the canteen remain on during daylight.,Energy-related Issues,synthetic
+SYN-0364,Noise from nearby work is affecting the quiet environment at the hostel.,Noise Pollution,synthetic
+SYN-0282,Exhaust fumes are collecting near the bus stop.,Air Pollution,synthetic
+SYN-0127,A water tap is leaking near the classroom block.,Water / Sanitation,synthetic
+SYN-0097,There are no usable waste bins near the garden.,Waste Management,synthetic
+SYN-0705,The green space near the second-floor corridor requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0092,Waste is being dumped beside the second-floor corridor.,Waste Management,synthetic
+SYN-0676,Garden waste has been left near the canteen.,Greenery / Landscaping,synthetic
+SYN-0100,The bins near the canteen have not been emptied for several days.,Waste Management,synthetic
+SYN-0545,Several lights near the hostel are damaged.,Energy-related Issues,synthetic
+SYN-0833,The area near the garden requires a general environmental review.,Other,synthetic
+SYN-0289,Dust from nearby work is affecting the air around the science laboratory.,Air Pollution,synthetic
+SYN-0681,The green space near the main entrance requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0401,Vehicles are creating excessive noise near the administration office.,Noise Pollution,synthetic
+SYN-0643,The trees around the classroom block need maintenance.,Greenery / Landscaping,synthetic
+SYN-0655,Broken branches are lying near the campus road.,Greenery / Landscaping,synthetic
+SYN-0363,Continuous drilling noise is coming from beside the second-floor corridor.,Noise Pollution,synthetic
+SYN-0048,The garbage collection point at the library needs attention.,Waste Management,synthetic
+SYN-0384,Loudspeakers near the washroom are being used at high volume.,Noise Pollution,synthetic
+SYN-0185,The washbasins at the parking area are not draining properly.,Water / Sanitation,synthetic
+SYN-0392,Repeated loud announcements are disturbing the courtyard.,Noise Pollution,synthetic
+SYN-0054,Waste is being dumped beside the sports ground.,Waste Management,synthetic
+SYN-0049,The waste collection area near the courtyard smells unpleasant.,Waste Management,synthetic
+SYN-0138,The washroom near the water station requires cleaning.,Water / Sanitation,synthetic
+SYN-0722,The area near the parking area requires a general environmental review.,Other,synthetic
+SYN-0499,Several lights near the auditorium are damaged.,Energy-related Issues,synthetic
+SYN-0582,An electrical fitting near the bus stop needs maintenance.,Energy-related Issues,synthetic
+SYN-0004,Mixed garbage is piling up outside the second-floor corridor.,Waste Management,synthetic
+SYN-0082,The waste collection area near the garden smells unpleasant.,Waste Management,synthetic
+SYN-0195,A water tap is leaking near the courtyard.,Water / Sanitation,synthetic
+SYN-0683,Garden waste has been left near the campus road.,Greenery / Landscaping,synthetic
+SYN-0009,Mixed garbage is piling up outside the main entrance.,Waste Management,synthetic
+SYN-0487,Lights are remaining switched on in the empty the sports ground.,Energy-related Issues,synthetic
+SYN-0514,The lights in the bus stop are not turning off.,Energy-related Issues,synthetic
+SYN-0431,Noise from nearby work is affecting the quiet environment at the auditorium.,Noise Pollution,synthetic
+SYN-0469,Repeated loud announcements are disturbing the campus road.,Noise Pollution,synthetic
+SYN-0622,Garden waste has been left near the second-floor corridor.,Greenery / Landscaping,synthetic
+SYN-0202,The washbasins at the sports ground are not draining properly.,Water / Sanitation,synthetic
+SYN-0001,There are no usable waste bins near the science laboratory.,Waste Management,synthetic
+SYN-0252,Exhaust fumes are collecting near the garden.,Air Pollution,synthetic
+SYN-0044,The garbage collection point at the main block needs attention.,Waste Management,synthetic
+SYN-0224,A water tap is leaking near the water station.,Water / Sanitation,synthetic
+SYN-0571,The lights in the workshop are not turning off.,Energy-related Issues,synthetic
+SYN-0573,A corridor light near the science laboratory is not working.,Energy-related Issues,synthetic
+SYN-0137,A water tap is leaking near the washroom.,Water / Sanitation,synthetic
+SYN-0035,Waste is being dumped beside the workshop.,Waste Management,synthetic
+SYN-0769,Please inspect the surroundings of the sports ground for an environmental issue.,Other,synthetic
+SYN-0294,Burning leaves are producing smoke near the science laboratory.,Air Pollution,synthetic
+SYN-0069,Mixed garbage is piling up outside the hostel.,Waste Management,synthetic
+SYN-0007,Plastic wrappers and food waste are scattered around the courtyard.,Waste Management,synthetic
+SYN-0172,The sanitation facilities near the back gate need maintenance.,Water / Sanitation,synthetic
+SYN-0139,The washroom near the courtyard requires cleaning.,Water / Sanitation,synthetic
+SYN-0320,The air quality around the second-floor corridor seems poor because of dust.,Air Pollution,synthetic
+SYN-0230,The washbasins at the auditorium are not draining properly.,Water / Sanitation,synthetic
+SYN-0095,The waste collection area near the science laboratory smells unpleasant.,Waste Management,synthetic
+SYN-0262,A smoky smell is coming from the area beside the hostel.,Air Pollution,synthetic
+SYN-0554,The lighting system near the sports ground is consuming energy unnecessarily.,Energy-related Issues,synthetic
+SYN-0058,The dustbin at the workshop is overflowing.,Waste Management,synthetic
+SYN-0456,Loudspeakers near the main entrance are being used at high volume.,Noise Pollution,synthetic
+SYN-0789,A concern about the campus environment has been raised near the washroom.,Other,synthetic
+SYN-0607,The garden beside the workshop is poorly maintained.,Greenery / Landscaping,synthetic
+SYN-0608,The trees around the washroom need maintenance.,Greenery / Landscaping,synthetic
+SYN-0651,Garden waste has been left near the water station.,Greenery / Landscaping,synthetic
+SYN-0229,The washroom near the parking area requires cleaning.,Water / Sanitation,synthetic
+SYN-0778,An environmental maintenance concern was noticed at the main block.,Other,synthetic
+SYN-0601,The trees around the water station need maintenance.,Greenery / Landscaping,synthetic
+SYN-0507,An electrical fitting near the sports ground needs maintenance.,Energy-related Issues,synthetic
+SYN-0807,A concern about the campus environment has been raised near the bus stop.,Other,synthetic
+SYN-0617,The plants around the bus stop are not being maintained.,Greenery / Landscaping,synthetic
+SYN-0179,The washbasins at the water station are not draining properly.,Water / Sanitation,synthetic
+SYN-0287,Burning leaves are producing smoke near the water station.,Air Pollution,synthetic
+SYN-0362,Construction noise can be heard inside the bus stop.,Noise Pollution,synthetic
+SYN-0244,Fumes from equipment are affecting the main block.,Air Pollution,synthetic
+SYN-0723,There is an unresolved environmental concern around the bus stop.,Other,synthetic
+SYN-0403,Repeated loud announcements are disturbing the classroom block.,Noise Pollution,synthetic
+SYN-0580,The lighting system near the garden is consuming energy unnecessarily.,Energy-related Issues,synthetic
+SYN-0143,There is an unpleasant sewage smell around the parking area.,Water / Sanitation,synthetic
+SYN-0695,Broken branches are lying near the canteen.,Greenery / Landscaping,synthetic
+SYN-0437,Continuous drilling noise is coming from beside the bus stop.,Noise Pollution,synthetic
+SYN-0358,The air around the main entrance smells strongly of fumes.,Air Pollution,synthetic
+SYN-0182,The washroom near the canteen requires cleaning.,Water / Sanitation,synthetic
+SYN-0493,Electricity appears to be wasted near the sports ground.,Energy-related Issues,synthetic
+SYN-0646,The grass around the bus stop has become overgrown.,Greenery / Landscaping,synthetic
+SYN-0758,Please inspect the surroundings of the administration office for an environmental issue.,Other,synthetic
+SYN-0379,Loud music is disturbing the surroundings of the administration office.,Noise Pollution,synthetic
+SYN-0614,The landscaped area at the science laboratory is full of weeds.,Greenery / Landscaping,synthetic
+SYN-0040,The garbage collection point at the parking area needs attention.,Waste Management,synthetic
+SYN-0670,The trees around the sports ground need maintenance.,Greenery / Landscaping,synthetic
+SYN-0066,Food waste has been left unattended near the sports ground.,Waste Management,synthetic
+SYN-0173,A pipe appears to be leaking beside the administration office.,Water / Sanitation,synthetic
+SYN-0219,The washroom near the auditorium requires cleaning.,Water / Sanitation,synthetic
+SYN-0439,Continuous drilling noise is coming from beside the workshop.,Noise Pollution,synthetic
+SYN-0025,Food waste has been left unattended near the science laboratory.,Waste Management,synthetic
+SYN-0365,Loud machinery is disturbing people near the courtyard.,Noise Pollution,synthetic
+SYN-0432,Construction noise can be heard inside the courtyard.,Noise Pollution,synthetic
+SYN-0605,The green space near the back gate requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0087,Litter is spreading around the washroom after lunch.,Waste Management,synthetic
+SYN-0557,Fans are running in an unoccupied the bus stop.,Energy-related Issues,synthetic
+SYN-0631,The grass around the auditorium has become overgrown.,Greenery / Landscaping,synthetic
+SYN-0649,Plants near the hostel have been damaged.,Greenery / Landscaping,synthetic
+SYN-0560,The lighting system near the courtyard is consuming energy unnecessarily.,Energy-related Issues,synthetic
+SYN-0334,The air quality around the hostel seems poor because of dust.,Air Pollution,synthetic
+SYN-0266,Waste burning near the canteen is causing air pollution.,Air Pollution,synthetic
+SYN-0479,Excessive honking is disturbing the area around the parking area.,Noise Pollution,synthetic
+SYN-0433,Generator noise is disturbing people near the garden.,Noise Pollution,synthetic
+SYN-0543,Fans are running in an unoccupied the second-floor corridor.,Energy-related Issues,synthetic
+SYN-0642,The green space near the garden requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0505,A switch near the classroom block does not control the lights properly.,Energy-related Issues,synthetic
+SYN-0688,The green space near the main block requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0616,Plants near the library have been damaged.,Greenery / Landscaping,synthetic
+SYN-0686,Leaves and branches are blocking the walkway near the library.,Greenery / Landscaping,synthetic
+SYN-0550,An electrical fitting near the hostel needs maintenance.,Energy-related Issues,synthetic
+SYN-0268,Fumes from equipment are affecting the parking area.,Air Pollution,synthetic
+SYN-0344,The air around the library smells strongly of fumes.,Air Pollution,synthetic
+SYN-0552,Several lights near the canteen are damaged.,Energy-related Issues,synthetic
+SYN-0787,Please review an unspecified environmental issue at the parking area.,Other,synthetic
+SYN-0834,A concern about the campus environment has been raised near the main entrance.,Other,synthetic
+SYN-0303,Exhaust fumes are collecting near the washroom.,Air Pollution,synthetic
+SYN-0444,Vehicles are creating excessive noise near the water station.,Noise Pollution,synthetic
+SYN-0150,The drinking water area near the courtyard is dirty.,Water / Sanitation,synthetic
+SYN-0589,A switch near the water station does not control the lights properly.,Energy-related Issues,synthetic
+SYN-0160,Water is being wasted because a tap near the washroom will not close.,Water / Sanitation,synthetic
+SYN-0772,The environmental condition around the library needs attention.,Other,synthetic
+SYN-0249,Dust from nearby work is affecting the air around the parking area.,Air Pollution,synthetic
+SYN-0243,The air around the canteen smells strongly of fumes.,Air Pollution,synthetic
+SYN-0438,Vehicles are creating excessive noise near the hostel.,Noise Pollution,synthetic
+SYN-0796,An unidentified environmental problem has been reported at the sports ground.,Other,synthetic
+SYN-0254,Exhaust fumes are collecting near the main entrance.,Air Pollution,synthetic
+SYN-0404,Loud music is disturbing the surroundings of the second-floor corridor.,Noise Pollution,synthetic
+SYN-0728,A concern about the campus environment has been raised near the water station.,Other,synthetic
+SYN-0535,Several lights near the administration office are damaged.,Energy-related Issues,synthetic
+SYN-0183,The drinking water area near the hostel is dirty.,Water / Sanitation,synthetic
+SYN-0471,Generator noise is disturbing people near the canteen.,Noise Pollution,synthetic
+SYN-0448,A machine near the canteen is making a very loud sound.,Noise Pollution,synthetic
+SYN-0176,The washroom near the administration office requires cleaning.,Water / Sanitation,synthetic
+SYN-0110,Mixed garbage is piling up outside the auditorium.,Waste Management,synthetic
+SYN-0369,Loudspeakers near the classroom block are being used at high volume.,Noise Pollution,synthetic
+SYN-0711,The plants around the library are not being maintained.,Greenery / Landscaping,synthetic
+SYN-0797,An environmental issue was noticed near the science laboratory but its category is unclear.,Other,synthetic
+SYN-0524,Lights are remaining switched on in the empty the courtyard.,Energy-related Issues,synthetic
+SYN-0803,The environmental condition around the courtyard needs attention.,Other,synthetic
+SYN-0626,The trees around the back gate need maintenance.,Greenery / Landscaping,synthetic
+SYN-0400,Excessive honking is disturbing the area around the classroom block.,Noise Pollution,synthetic
+SYN-0078,The bins near the washroom have not been emptied for several days.,Waste Management,synthetic
+SYN-0134,The drain near the back gate is overflowing.,Water / Sanitation,synthetic
+SYN-0269,Dust from nearby work is affecting the air around the sports ground.,Air Pollution,synthetic
+SYN-0790,The environmental condition around the second-floor corridor needs attention.,Other,synthetic
+SYN-0201,The drain near the canteen is blocked.,Water / Sanitation,synthetic
+SYN-0377,Repeated loud announcements are disturbing the auditorium.,Noise Pollution,synthetic
+SYN-0823,Please review an unspecified environmental issue at the canteen.,Other,synthetic
+SYN-0578,A corridor light near the courtyard is not working.,Energy-related Issues,synthetic
+SYN-0261,A smoky smell is coming from the area beside the sports ground.,Air Pollution,synthetic
+SYN-0263,Dust from nearby work is affecting the air around the hostel.,Air Pollution,synthetic
+SYN-0813,The area near the main entrance requires a general environmental review.,Other,synthetic
+SYN-0028,There are no usable waste bins near the auditorium.,Waste Management,synthetic
+SYN-0839,The campus environment near the garden may require further assessment.,Other,synthetic
+SYN-0489,A switch near the parking area does not control the lights properly.,Energy-related Issues,synthetic
+SYN-0691,Plants near the sports ground are drying out and need watering.,Greenery / Landscaping,synthetic
+SYN-0200,A pipe appears to be leaking beside the main block.,Water / Sanitation,synthetic
+SYN-0115,There are no usable waste bins near the main entrance.,Waste Management,synthetic
+SYN-0256,Exhaust fumes are collecting near the campus road.,Air Pollution,synthetic
+SYN-0298,Dust is spreading from the road near the second-floor corridor.,Air Pollution,synthetic
+SYN-0335,Waste burning near the washroom is causing air pollution.,Air Pollution,synthetic
+SYN-0644,Plants near the campus road are drying out and need watering.,Greenery / Landscaping,synthetic
+SYN-0809,A concern about the campus environment has been raised near the courtyard.,Other,synthetic
+SYN-0627,Broken branches are lying near the main block.,Greenery / Landscaping,synthetic
+SYN-0817,The area near the workshop requires a general environmental review.,Other,synthetic
+SYN-0749,The surroundings of the second-floor corridor need an environmental inspection.,Other,synthetic
+SYN-0260,A smoky smell is coming from the area beside the classroom block.,Air Pollution,synthetic
+SYN-0615,The landscaped area at the classroom block is full of weeds.,Greenery / Landscaping,synthetic
+SYN-0539,Air conditioning is running in an empty the water station.,Energy-related Issues,synthetic
+SYN-0730,An unidentified environmental problem has been reported at the second-floor corridor.,Other,synthetic
+SYN-0530,A corridor light near the workshop is not working.,Energy-related Issues,synthetic
+SYN-0476,Loud music is disturbing the surroundings of the science laboratory.,Noise Pollution,synthetic
+SYN-0423,Noise from nearby work is affecting the quiet environment at the main block.,Noise Pollution,synthetic
+SYN-0628,The plants around the garden are not being maintained.,Greenery / Landscaping,synthetic
+SYN-0345,A smoky smell is coming from the area beside the water station.,Air Pollution,synthetic
+SYN-0510,Lights are remaining switched on in the empty the workshop.,Energy-related Issues,synthetic
+SYN-0014,The dustbin at the canteen is overflowing.,Waste Management,synthetic
+SYN-0057,Litter is spreading around the courtyard after lunch.,Waste Management,synthetic
+SYN-0755,The campus environment near the washroom may require further assessment.,Other,synthetic
+SYN-0542,A corridor light near the classroom block is not working.,Energy-related Issues,synthetic
+SYN-0747,A concern about the campus environment has been raised near the library.,Other,synthetic
+SYN-0498,The outdoor lights near the main entrance remain on during daylight.,Energy-related Issues,synthetic
+SYN-0638,Garden waste has been left near the bus stop.,Greenery / Landscaping,synthetic
+SYN-0671,Plants near the campus road have been damaged.,Greenery / Landscaping,synthetic
+SYN-0744,The surroundings of the campus road need an environmental inspection.,Other,synthetic
+SYN-0169,The sanitation facilities near the second-floor corridor need maintenance.,Water / Sanitation,synthetic
+SYN-0333,Dust from nearby work is affecting the air around the garden.,Air Pollution,synthetic
+SYN-0111,The garbage collection point at the classroom block needs attention.,Waste Management,synthetic
+SYN-0107,The bins near the library have not been emptied for several days.,Waste Management,synthetic
+SYN-0661,Plants near the washroom are drying out and need watering.,Greenery / Landscaping,synthetic
+SYN-0760,Please review an unspecified environmental issue at the bus stop.,Other,synthetic
+SYN-0065,The waste collection area near the classroom block smells unpleasant.,Waste Management,synthetic
+SYN-0592,Lights are remaining switched on in the empty the library.,Energy-related Issues,synthetic
+SYN-0171,The drain near the science laboratory is overflowing.,Water / Sanitation,synthetic
+SYN-0618,The trees around the bus stop need maintenance.,Greenery / Landscaping,synthetic
+SYN-0011,There are no usable waste bins near the bus stop.,Waste Management,synthetic
+SYN-0109,The dustbin at the washroom is overflowing.,Waste Management,synthetic
+SYN-0409,A machine near the water station is making a very loud sound.,Noise Pollution,synthetic
+SYN-0309,Dust from nearby work is affecting the air around the campus road.,Air Pollution,synthetic
+SYN-0063,There are no usable waste bins near the main block.,Waste Management,synthetic
+SYN-0395,Noise from nearby work is affecting the quiet environment at the workshop.,Noise Pollution,synthetic
+SYN-0142,The drinking water area near the administration office is dirty.,Water / Sanitation,synthetic
+SYN-0457,Noise from nearby work is affecting the quiet environment at the garden.,Noise Pollution,synthetic
+SYN-0032,Plastic wrappers and food waste are scattered around the washroom.,Waste Management,synthetic
+SYN-0575,A switch near the library does not control the lights properly.,Energy-related Issues,synthetic
+SYN-0663,The trees around the parking area need maintenance.,Greenery / Landscaping,synthetic
+SYN-0529,Air conditioning is running in an empty the second-floor corridor.,Energy-related Issues,synthetic
+SYN-0825,An unidentified environmental problem has been reported at the science laboratory.,Other,synthetic
+SYN-0637,The plants around the campus road are not being maintained.,Greenery / Landscaping,synthetic
+SYN-0336,Smoke is spreading across the garden.,Air Pollution,synthetic
+SYN-0630,The trees around the administration office need maintenance.,Greenery / Landscaping,synthetic
+SYN-0486,The outdoor lights near the parking area remain on during daylight.,Energy-related Issues,synthetic
+SYN-0112,Waste is being dumped beside the science laboratory.,Waste Management,synthetic
+SYN-0308,Dust is spreading from the road near the sports ground.,Air Pollution,synthetic
+SYN-0017,Garbage has accumulated near the main entrance and has not been collected.,Waste Management,synthetic
+SYN-0144,A pipe appears to be leaking beside the library.,Water / Sanitation,synthetic
+SYN-0599,The outdoor lights near the second-floor corridor remain on during daylight.,Energy-related Issues,synthetic
+SYN-0251,A smoky smell is coming from the area beside the main entrance.,Air Pollution,synthetic
+SYN-0492,An electrical fitting near the main entrance needs maintenance.,Energy-related Issues,synthetic
+SYN-0721,The environmental condition around the sports ground needs attention.,Other,synthetic
+SYN-0080,Plastic wrappers and food waste are scattered around the library.,Waste Management,synthetic
+SYN-0435,Loud machinery is disturbing people near the garden.,Noise Pollution,synthetic
+SYN-0215,Water is stagnating beside the garden.,Water / Sanitation,synthetic
+SYN-0367,Loudspeakers near the canteen are being used at high volume.,Noise Pollution,synthetic
+SYN-0792,There is an unresolved environmental concern around the parking area.,Other,synthetic
+SYN-0548,Fans are running in an unoccupied the parking area.,Energy-related Issues,synthetic
+SYN-0784,Please inspect the surroundings of the bus stop for an environmental issue.,Other,synthetic
+SYN-0070,There are no usable waste bins near the second-floor corridor.,Waste Management,synthetic
+SYN-0786,There is an unresolved environmental concern around the garden.,Other,synthetic
+SYN-0838,The surroundings of the parking area need an environmental inspection.,Other,synthetic
+SYN-0385,Vehicles are creating excessive noise near the second-floor corridor.,Noise Pollution,synthetic
+SYN-0737,The campus environment near the bus stop may require further assessment.,Other,synthetic
+SYN-0253,Dust clouds are entering the garden during construction.,Air Pollution,synthetic
+SYN-0534,Electricity appears to be wasted near the campus road.,Energy-related Issues,synthetic
+SYN-0020,Plastic wrappers and food waste are scattered around the administration office.,Waste Management,synthetic
+SYN-0666,The trees around the campus road need maintenance.,Greenery / Landscaping,synthetic
+SYN-0562,A faulty light is flickering near the campus road.,Energy-related Issues,synthetic
+SYN-0060,The dustbin at the main block is overflowing.,Waste Management,synthetic
+SYN-0210,Water is being wasted because a tap near the canteen will not close.,Water / Sanitation,synthetic
+SYN-0428,Loud machinery is disturbing people near the second-floor corridor.,Noise Pollution,synthetic
+SYN-0694,The trees around the science laboratory need maintenance.,Greenery / Landscaping,synthetic
+SYN-0033,The bins near the back gate have not been emptied for several days.,Waste Management,synthetic
+SYN-0114,The waste collection area near the administration office smells unpleasant.,Waste Management,synthetic
+SYN-0461,Loud music is disturbing the surroundings of the main block.,Noise Pollution,synthetic
+SYN-0372,Repeated loud announcements are disturbing the bus stop.,Noise Pollution,synthetic
+SYN-0288,Smoke is spreading across the science laboratory.,Air Pollution,synthetic
+SYN-0394,Loudspeakers near the second-floor corridor are being used at high volume.,Noise Pollution,synthetic
+SYN-0759,There is an unresolved environmental concern around the canteen.,Other,synthetic
+SYN-0242,Burning leaves are producing smoke near the library.,Air Pollution,synthetic
+SYN-0120,Plastic wrappers and food waste are scattered around the auditorium.,Waste Management,synthetic
+SYN-0606,Leaves and branches are blocking the walkway near the courtyard.,Greenery / Landscaping,synthetic
+SYN-0191,A pipe appears to be leaking beside the hostel.,Water / Sanitation,synthetic
+SYN-0668,Plants near the administration office are drying out and need watering.,Greenery / Landscaping,synthetic
+SYN-0624,Leaves and branches are blocking the walkway near the classroom block.,Greenery / Landscaping,synthetic
+SYN-0765,The surroundings of the sports ground need an environmental inspection.,Other,synthetic
+SYN-0818,The environmental condition around the administration office needs attention.,Other,synthetic
+SYN-0752,The environmental condition around the campus road needs attention.,Other,synthetic
+SYN-0836,A concern about the campus environment has been raised near the garden.,Other,synthetic
+SYN-0064,Food waste has been left unattended near the water station.,Waste Management,synthetic
+SYN-0275,Dust from nearby work is affecting the air around the administration office.,Air Pollution,synthetic
+SYN-0136,A pipe appears to be leaking beside the classroom block.,Water / Sanitation,synthetic
+SYN-0008,The dustbin at the administration office is overflowing.,Waste Management,synthetic
+SYN-0679,The grass around the washroom has become overgrown.,Greenery / Landscaping,synthetic
+SYN-0374,A machine near the main block is making a very loud sound.,Noise Pollution,synthetic
+SYN-0366,Noise from nearby work is affecting the quiet environment at the washroom.,Noise Pollution,synthetic
+SYN-0286,A smoky smell is coming from the area beside the auditorium.,Air Pollution,synthetic
+SYN-0204,There is standing water near the sports ground after cleaning.,Water / Sanitation,synthetic
+SYN-0346,Exhaust fumes are collecting near the library.,Air Pollution,synthetic
+SYN-0441,Loudspeakers near the science laboratory are being used at high volume.,Noise Pollution,synthetic
+SYN-0116,Litter is spreading around the administration office after lunch.,Waste Management,synthetic
+SYN-0690,The green space near the library requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0039,There are no usable waste bins near the water station.,Waste Management,synthetic
+SYN-0541,An electrical fitting near the library needs maintenance.,Energy-related Issues,synthetic
+SYN-0059,The waste collection area near the washroom smells unpleasant.,Waste Management,synthetic
+SYN-0174,The drain near the garden is blocked.,Water / Sanitation,synthetic
+SYN-0373,Loud music is disturbing the surroundings of the campus road.,Noise Pollution,synthetic
+SYN-0835,An environmental issue was noticed near the library but its category is unclear.,Other,synthetic
+SYN-0132,The drain near the main block is blocked.,Water / Sanitation,synthetic
+SYN-0085,Garbage has accumulated near the water station and has not been collected.,Waste Management,synthetic
+SYN-0597,A corridor light near the canteen is not working.,Energy-related Issues,synthetic
+SYN-0652,The garden beside the main block is poorly maintained.,Greenery / Landscaping,synthetic
+SYN-0470,Excessive honking is disturbing the area around the second-floor corridor.,Noise Pollution,synthetic
+SYN-0188,There is an unpleasant sewage smell around the library.,Water / Sanitation,synthetic
+SYN-0277,Someone is burning waste near the auditorium.,Air Pollution,synthetic
+SYN-0376,The noise from maintenance work near the washroom is excessive.,Noise Pollution,synthetic
+SYN-0526,A switch near the back gate does not control the lights properly.,Energy-related Issues,synthetic
+SYN-0632,The plants around the classroom block are not being maintained.,Greenery / Landscaping,synthetic
+SYN-0713,Garden waste has been left near the garden.,Greenery / Landscaping,synthetic
+SYN-0168,Water is stagnating beside the sports ground.,Water / Sanitation,synthetic
+SYN-0416,Vehicles are creating excessive noise near the science laboratory.,Noise Pollution,synthetic
+SYN-0494,Lights are remaining switched on in the empty the second-floor corridor.,Energy-related Issues,synthetic
+SYN-0068,Garbage has accumulated near the courtyard and has not been collected.,Waste Management,synthetic
+SYN-0375,Loudspeakers near the courtyard are being used at high volume.,Noise Pollution,synthetic
+SYN-0187,There is an unpleasant sewage smell around the water station.,Water / Sanitation,synthetic
+SYN-0297,Fumes from equipment are affecting the washroom.,Air Pollution,synthetic
+SYN-0827,A concern about the campus environment has been raised near the parking area.,Other,synthetic
+SYN-0226,The drinking water area near the campus road is dirty.,Water / Sanitation,synthetic
+SYN-0620,Leaves and branches are blocking the walkway near the main entrance.,Greenery / Landscaping,synthetic
+SYN-0021,Plastic wrappers and food waste are scattered around the campus road.,Waste Management,synthetic
+SYN-0762,There is an unresolved environmental concern around the workshop.,Other,synthetic
+SYN-0386,Construction noise can be heard inside the auditorium.,Noise Pollution,synthetic
+SYN-0050,The dustbin at the parking area is overflowing.,Waste Management,synthetic
+SYN-0322,Burning leaves are producing smoke near the main entrance.,Air Pollution,synthetic
+SYN-0071,Plastic wrappers and food waste are scattered around the water station.,Waste Management,synthetic
+SYN-0559,A switch near the main entrance does not control the lights properly.,Energy-related Issues,synthetic
+SYN-0782,The area near the courtyard requires a general environmental review.,Other,synthetic
+SYN-0776,Please inspect the surroundings of the workshop for an environmental issue.,Other,synthetic
+SYN-0771,An unidentified environmental problem has been reported at the washroom.,Other,synthetic
+SYN-0348,The air around the washroom smells strongly of fumes.,Air Pollution,synthetic
+SYN-0430,The noise from maintenance work near the second-floor corridor is excessive.,Noise Pollution,synthetic
+SYN-0551,Electricity appears to be wasted near the courtyard.,Energy-related Issues,synthetic
+SYN-0098,The garbage collection point at the science laboratory needs attention.,Waste Management,synthetic
+SYN-0783,An environmental maintenance concern was noticed at the administration office.,Other,synthetic
+SYN-0113,Litter is spreading around the garden after lunch.,Waste Management,synthetic
+SYN-0181,A pipe appears to be leaking beside the bus stop.,Water / Sanitation,synthetic
+SYN-0405,Loud music is disturbing the surroundings of the hostel.,Noise Pollution,synthetic
+SYN-0682,Garden waste has been left near the courtyard.,Greenery / Landscaping,synthetic
+SYN-0398,A machine near the science laboratory is making a very loud sound.,Noise Pollution,synthetic
+SYN-0147,There is standing water near the parking area after cleaning.,Water / Sanitation,synthetic
+SYN-0509,Electricity appears to be wasted near the hostel.,Energy-related Issues,synthetic
+SYN-0407,Loud machinery is disturbing people near the bus stop.,Noise Pollution,synthetic
+SYN-0311,The air around the administration office smells strongly of fumes.,Air Pollution,synthetic
+SYN-0026,Plastic wrappers and food waste are scattered around the garden.,Waste Management,synthetic
+SYN-0382,Repeated loud announcements are disturbing the second-floor corridor.,Noise Pollution,synthetic
+SYN-0399,Continuous drilling noise is coming from beside the sports ground.,Noise Pollution,synthetic
+SYN-0352,Smoke is spreading across the canteen.,Air Pollution,synthetic
+SYN-0525,Air conditioning is running in an empty the garden.,Energy-related Issues,synthetic
+SYN-0445,Generator noise is disturbing people near the parking area.,Noise Pollution,synthetic
+SYN-0141,Water is being wasted because a tap near the campus road will not close.,Water / Sanitation,synthetic
+SYN-0684,The landscaped area at the back gate is full of weeds.,Greenery / Landscaping,synthetic
+SYN-0811,There is an unresolved environmental concern around the main entrance.,Other,synthetic
+SYN-0012,The garbage collection point at the washroom needs attention.,Waste Management,synthetic
+SYN-0584,A faulty light is flickering near the washroom.,Energy-related Issues,synthetic
+SYN-0359,Fumes from equipment are affecting the workshop.,Air Pollution,synthetic
+SYN-0152,There is an unpleasant sewage smell around the main entrance.,Water / Sanitation,synthetic
+SYN-0595,Air conditioning is running in an empty the main block.,Energy-related Issues,synthetic
+SYN-0475,Loud machinery is disturbing people near the main entrance.,Noise Pollution,synthetic
+SYN-0293,Burning leaves are producing smoke near the parking area.,Air Pollution,synthetic
+SYN-0829,An unidentified environmental problem has been reported at the garden.,Other,synthetic
+SYN-0733,An environmental issue was noticed near the courtyard but its category is unclear.,Other,synthetic
+SYN-0740,There is an unusual environmental concern near the workshop.,Other,synthetic
+SYN-0248,Someone is burning waste near the main entrance.,Air Pollution,synthetic
+SYN-0791,An environmental maintenance concern was noticed at the second-floor corridor.,Other,synthetic
+SYN-0714,Broken branches are lying near the science laboratory.,Greenery / Landscaping,synthetic
+SYN-0155,The washroom near the sports ground requires cleaning.,Water / Sanitation,synthetic
+SYN-0234,The washbasins at the second-floor corridor are not draining properly.,Water / Sanitation,synthetic
+SYN-0129,Water is stagnating beside the main entrance.,Water / Sanitation,synthetic
+SYN-0795,An environmental maintenance concern was noticed at the hostel.,Other,synthetic
+SYN-0218,The sanitation facilities near the science laboratory need maintenance.,Water / Sanitation,synthetic
+SYN-0328,Someone is burning waste near the sports ground.,Air Pollution,synthetic
+SYN-0483,Air conditioning is running in an empty the bus stop.,Energy-related Issues,synthetic
+SYN-0301,Dust clouds are entering the campus road during construction.,Air Pollution,synthetic
+SYN-0177,The drain near the library is blocked.,Water / Sanitation,synthetic
+SYN-0824,A concern about the campus environment has been raised near the auditorium.,Other,synthetic
+SYN-0640,A damaged plant bed near the main block needs attention.,Greenery / Landscaping,synthetic
+SYN-0081,The waste collection area near the back gate smells unpleasant.,Waste Management,synthetic
+SYN-0574,Electricity appears to be wasted near the main block.,Energy-related Issues,synthetic
+SYN-0517,Several lights near the parking area are damaged.,Energy-related Issues,synthetic
+SYN-0593,A switch near the hostel does not control the lights properly.,Energy-related Issues,synthetic
+SYN-0239,A pipe appears to be leaking beside the main entrance.,Water / Sanitation,synthetic
+SYN-0412,Loud machinery is disturbing people near the workshop.,Noise Pollution,synthetic
+SYN-0005,Waste is being dumped beside the garden.,Waste Management,synthetic
+SYN-0629,Garden waste has been left near the library.,Greenery / Landscaping,synthetic
+SYN-0594,The outdoor lights near the campus road remain on during daylight.,Energy-related Issues,synthetic
+SYN-0236,A pipe appears to be leaking beside the canteen.,Water / Sanitation,synthetic
+SYN-0131,The drain near the main block is overflowing.,Water / Sanitation,synthetic
+SYN-0327,Dust from nearby work is affecting the air around the main block.,Air Pollution,synthetic
+SYN-0802,An unidentified environmental problem has been reported at the classroom block.,Other,synthetic
+SYN-0657,A damaged plant bed near the courtyard needs attention.,Greenery / Landscaping,synthetic
+SYN-0675,Plants near the courtyard have been damaged.,Greenery / Landscaping,synthetic
+SYN-0576,Fans are running in an unoccupied the courtyard.,Energy-related Issues,synthetic
+SYN-0734,The campus environment near the campus road may require further assessment.,Other,synthetic
+SYN-0801,The environmental condition around the garden needs attention.,Other,synthetic
+SYN-0546,The outdoor lights near the courtyard remain on during daylight.,Energy-related Issues,synthetic
+SYN-0318,Fumes from equipment are affecting the campus road.,Air Pollution,synthetic
+SYN-0568,Fans are running in an unoccupied the science laboratory.,Energy-related Issues,synthetic
+SYN-0446,Repeated loud announcements are disturbing the sports ground.,Noise Pollution,synthetic
+SYN-0719,Plants near the washroom have been damaged.,Greenery / Landscaping,synthetic
+SYN-0656,Plants near the water station have been damaged.,Greenery / Landscaping,synthetic
+SYN-0090,The bins near the water station have not been emptied for several days.,Waste Management,synthetic
+SYN-0735,Please review an unspecified environmental issue at the main entrance.,Other,synthetic
+SYN-0093,Food waste has been left unattended near the canteen.,Waste Management,synthetic
+SYN-0406,Loudspeakers near the parking area are being used at high volume.,Noise Pollution,synthetic
+SYN-0350,Fumes from equipment are affecting the sports ground.,Air Pollution,synthetic
+SYN-0555,Several lights near the workshop are damaged.,Energy-related Issues,synthetic
+SYN-0211,There is standing water near the courtyard after cleaning.,Water / Sanitation,synthetic
+SYN-0518,Several lights near the second-floor corridor are damaged.,Energy-related Issues,synthetic
+SYN-0126,There is standing water near the bus stop after cleaning.,Water / Sanitation,synthetic
+SYN-0075,The dustbin at the hostel is overflowing.,Waste Management,synthetic
+SYN-0221,The drain near the water station is blocked.,Water / Sanitation,synthetic
+SYN-0192,Water is stagnating beside the main block.,Water / Sanitation,synthetic
+SYN-0775,An environmental issue was noticed near the campus road but its category is unclear.,Other,synthetic
+SYN-0151,There is standing water near the classroom block after cleaning.,Water / Sanitation,synthetic
+SYN-0029,There are no usable waste bins near the campus road.,Waste Management,synthetic
+SYN-0516,Air conditioning is running in an empty the administration office.,Energy-related Issues,synthetic
+SYN-0167,The drinking water area near the second-floor corridor is dirty.,Water / Sanitation,synthetic
+SYN-0024,The garbage collection point at the courtyard needs attention.,Waste Management,synthetic
+SYN-0586,Air conditioning is running in an empty the courtyard.,Energy-related Issues,synthetic
+SYN-0463,Excessive honking is disturbing the area around the workshop.,Noise Pollution,synthetic
+SYN-0154,The drain near the parking area is overflowing.,Water / Sanitation,synthetic
+SYN-0356,A smoky smell is coming from the area beside the library.,Air Pollution,synthetic
+SYN-0086,Plastic wrappers and food waste are scattered around the science laboratory.,Waste Management,synthetic
+SYN-0228,A water tap is leaking near the main entrance.,Water / Sanitation,synthetic
+SYN-0052,The waste collection area near the main entrance smells unpleasant.,Waste Management,synthetic
+SYN-0660,Broken branches are lying near the back gate.,Greenery / Landscaping,synthetic
+SYN-0808,The area near the second-floor corridor requires a general environmental review.,Other,synthetic
+SYN-0512,The lighting system near the water station is consuming energy unnecessarily.,Energy-related Issues,synthetic
+SYN-0832,Please inspect the surroundings of the science laboratory for an environmental issue.,Other,synthetic
+SYN-0051,The waste collection area near the workshop smells unpleasant.,Waste Management,synthetic
+SYN-0223,A water tap is leaking near the library.,Water / Sanitation,synthetic
+SYN-0768,There is an unresolved environmental concern around the hostel.,Other,synthetic
+SYN-0383,The noise from maintenance work near the library is excessive.,Noise Pollution,synthetic
+SYN-0581,Electricity appears to be wasted near the canteen.,Energy-related Issues,synthetic
+SYN-0523,A faulty light is flickering near the garden.,Energy-related Issues,synthetic
+SYN-0472,Continuous drilling noise is coming from beside the parking area.,Noise Pollution,synthetic
+SYN-0351,Smoke is spreading across the water station.,Air Pollution,synthetic
+SYN-0798,Please review an unspecified environmental issue at the campus road.,Other,synthetic
+SYN-0579,Lights are remaining switched on in the empty the auditorium.,Energy-related Issues,synthetic
+SYN-0036,Garbage has accumulated near the library and has not been collected.,Waste Management,synthetic
+SYN-0317,Dust clouds are entering the main block during construction.,Air Pollution,synthetic
+SYN-0019,The dustbin at the science laboratory is overflowing.,Waste Management,synthetic
+SYN-0805,The environmental condition around the workshop needs attention.,Other,synthetic
+SYN-0635,The grass around the garden has become overgrown.,Greenery / Landscaping,synthetic
+SYN-0570,Electricity appears to be wasted near the classroom block.,Energy-related Issues,synthetic
+SYN-0389,Construction noise can be heard inside the second-floor corridor.,Noise Pollution,synthetic
+SYN-0455,The noise from maintenance work near the campus road is excessive.,Noise Pollution,synthetic
+SYN-0368,Continuous drilling noise is coming from beside the back gate.,Noise Pollution,synthetic
+SYN-0321,Burning leaves are producing smoke near the canteen.,Air Pollution,synthetic
+SYN-0325,A smoky smell is coming from the area beside the canteen.,Air Pollution,synthetic
+SYN-0725,A concern about the campus environment has been raised near the main block.,Other,synthetic
+SYN-0337,The air quality around the bus stop seems poor because of dust.,Air Pollution,synthetic
+SYN-0658,The garden beside the campus road is poorly maintained.,Greenery / Landscaping,synthetic
+SYN-0408,Construction noise can be heard inside the science laboratory.,Noise Pollution,synthetic
+SYN-0347,Dust from nearby work is affecting the air around the bus stop.,Air Pollution,synthetic
+SYN-0272,Waste burning near the classroom block is causing air pollution.,Air Pollution,synthetic
+SYN-0756,An unidentified environmental problem has been reported at the back gate.,Other,synthetic
+SYN-0741,There is an unresolved environmental concern around the back gate.,Other,synthetic
+SYN-0159,The sanitation facilities near the main entrance need maintenance.,Water / Sanitation,synthetic
+SYN-0420,Repeated loud announcements are disturbing the main entrance.,Noise Pollution,synthetic
+SYN-0148,Water is stagnating beside the second-floor corridor.,Water / Sanitation,synthetic
+SYN-0016,The bins near the main entrance have not been emptied for several days.,Waste Management,synthetic
+SYN-0837,Please review an unspecified environmental issue at the courtyard.,Other,synthetic
+SYN-0528,The lighting system near the campus road is consuming energy unnecessarily.,Energy-related Issues,synthetic
+SYN-0451,Loud machinery is disturbing people near the auditorium.,Noise Pollution,synthetic
+SYN-0780,The surroundings of the auditorium need an environmental inspection.,Other,synthetic
+SYN-0340,A smoky smell is coming from the area beside the science laboratory.,Air Pollution,synthetic
+SYN-0515,A switch near the administration office does not control the lights properly.,Energy-related Issues,synthetic
+SYN-0763,There is an unusual environmental concern near the library.,Other,synthetic
+SYN-0653,The garden beside the administration office is poorly maintained.,Greenery / Landscaping,synthetic
+SYN-0623,The trees around the second-floor corridor need maintenance.,Greenery / Landscaping,synthetic
+SYN-0800,The campus environment near the administration office may require further assessment.,Other,synthetic
+SYN-0396,The noise from maintenance work near the back gate is excessive.,Noise Pollution,synthetic
+SYN-0391,A machine near the garden is making a very loud sound.,Noise Pollution,synthetic
+SYN-0816,The surroundings of the canteen need an environmental inspection.,Other,synthetic
+SYN-0326,Burning leaves are producing smoke near the garden.,Air Pollution,synthetic
+SYN-0045,Mixed garbage is piling up outside the administration office.,Waste Management,synthetic
+SYN-0421,Generator noise is disturbing people near the second-floor corridor.,Noise Pollution,synthetic
+SYN-0689,The trees around the workshop need maintenance.,Greenery / Landscaping,synthetic
+SYN-0585,A faulty light is flickering near the auditorium.,Energy-related Issues,synthetic
+SYN-0245,Waste burning near the water station is causing air pollution.,Air Pollution,synthetic
+SYN-0194,The drinking water area near the parking area is dirty.,Water / Sanitation,synthetic
+SYN-0330,The air quality around the workshop seems poor because of dust.,Air Pollution,synthetic
+SYN-0467,Excessive honking is disturbing the area around the water station.,Noise Pollution,synthetic
+SYN-0387,Construction noise can be heard inside the back gate.,Noise Pollution,synthetic
+SYN-0341,The air around the auditorium smells strongly of fumes.,Air Pollution,synthetic
+SYN-0354,The air around the campus road smells strongly of fumes.,Air Pollution,synthetic
+SYN-0788,An unidentified environmental problem has been reported at the main entrance.,Other,synthetic
+SYN-0458,Repeated loud announcements are disturbing the garden.,Noise Pollution,synthetic
+SYN-0685,Broken branches are lying near the washroom.,Greenery / Landscaping,synthetic
+SYN-0502,A switch near the science laboratory does not control the lights properly.,Energy-related Issues,synthetic
+SYN-0306,The air quality around the canteen seems poor because of dust.,Air Pollution,synthetic
+SYN-0692,Leaves and branches are blocking the walkway near the main block.,Greenery / Landscaping,synthetic
+SYN-0701,The landscaped area at the library is full of weeds.,Greenery / Landscaping,synthetic
+SYN-0598,An electrical fitting near the second-floor corridor needs maintenance.,Energy-related Issues,synthetic
+SYN-0520,Air conditioning is running in an empty the workshop.,Energy-related Issues,synthetic
+SYN-0753,An environmental maintenance concern was noticed at the campus road.,Other,synthetic
+SYN-0425,Loud machinery is disturbing people near the campus road.,Noise Pollution,synthetic
+SYN-0283,The air quality around the main block seems poor because of dust.,Air Pollution,synthetic
+SYN-0072,Waste is being dumped beside the back gate.,Waste Management,synthetic
+SYN-0140,The sanitation facilities near the parking area need maintenance.,Water / Sanitation,synthetic
+SYN-0521,Fans are running in an unoccupied the garden.,Energy-related Issues,synthetic
+SYN-0196,The drinking water area near the washroom is dirty.,Water / Sanitation,synthetic
+SYN-0393,Construction noise can be heard inside the campus road.,Noise Pollution,synthetic
+SYN-0149,The washbasins at the back gate are not draining properly.,Water / Sanitation,synthetic
+SYN-0587,The lighting system near the back gate is consuming energy unnecessarily.,Energy-related Issues,synthetic
+SYN-0468,Excessive honking is disturbing the area around the courtyard.,Noise Pollution,synthetic
+SYN-0821,An unidentified environmental problem has been reported at the courtyard.,Other,synthetic
+SYN-0484,The lighting system near the administration office is consuming energy unnecessarily.,Energy-related Issues,synthetic
+SYN-0495,A corridor light near the sports ground is not working.,Energy-related Issues,synthetic
+SYN-0426,Construction noise can be heard inside the water station.,Noise Pollution,synthetic
+SYN-0280,Fumes from equipment are affecting the garden.,Air Pollution,synthetic
+SYN-0522,The outdoor lights near the bus stop remain on during daylight.,Energy-related Issues,synthetic
+SYN-0696,A damaged plant bed near the back gate needs attention.,Greenery / Landscaping,synthetic
+SYN-0647,The grass around the main block has become overgrown.,Greenery / Landscaping,synthetic
+SYN-0158,Water is being wasted because a tap near the workshop will not close.,Water / Sanitation,synthetic
+SYN-0121,The drain near the washroom is blocked.,Water / Sanitation,synthetic
+SYN-0473,Loudspeakers near the workshop are being used at high volume.,Noise Pollution,synthetic
+SYN-0748,An environmental maintenance concern was noticed at the workshop.,Other,synthetic
+SYN-0819,Please inspect the surroundings of the hostel for an environmental issue.,Other,synthetic
+SYN-0826,There is an unusual environmental concern near the auditorium.,Other,synthetic
+SYN-0418,Excessive honking is disturbing the area around the library.,Noise Pollution,synthetic
+SYN-0704,The green space near the workshop requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0773,Please review an unspecified environmental issue at the auditorium.,Other,synthetic
+SYN-0565,Fans are running in an unoccupied the back gate.,Energy-related Issues,synthetic
+SYN-0319,Dust is spreading from the road near the administration office.,Air Pollution,synthetic
+SYN-0163,There is standing water near the water station after cleaning.,Water / Sanitation,synthetic
+SYN-0706,Broken branches are lying near the auditorium.,Greenery / Landscaping,synthetic
+SYN-0030,The garbage collection point at the sports ground needs attention.,Waste Management,synthetic
+SYN-0125,Water is stagnating beside the science laboratory.,Water / Sanitation,synthetic
+SYN-0497,A faulty light is flickering near the workshop.,Energy-related Issues,synthetic
+SYN-0659,The plants around the main block are not being maintained.,Greenery / Landscaping,synthetic
+SYN-0295,Someone is burning waste near the back gate.,Air Pollution,synthetic
+SYN-0135,Water is being wasted because a tap near the main entrance will not close.,Water / Sanitation,synthetic
+SYN-0563,A faulty light is flickering near the bus stop.,Energy-related Issues,synthetic
+SYN-0274,Exhaust fumes are collecting near the back gate.,Air Pollution,synthetic
+SYN-0209,There is an unpleasant sewage smell around the campus road.,Water / Sanitation,synthetic
+SYN-0751,There is an unusual environmental concern near the administration office.,Other,synthetic
+SYN-0639,Garden waste has been left near the parking area.,Greenery / Landscaping,synthetic
+SYN-0511,Several lights near the library are damaged.,Energy-related Issues,synthetic
+SYN-0371,Generator noise is disturbing people near the classroom block.,Noise Pollution,synthetic
+SYN-0531,The lighting system near the science laboratory is consuming energy unnecessarily.,Energy-related Issues,synthetic
+SYN-0193,Water is stagnating beside the library.,Water / Sanitation,synthetic
+SYN-0767,An environmental issue was noticed near the auditorium but its category is unclear.,Other,synthetic
+SYN-0424,Construction noise can be heard inside the main entrance.,Noise Pollution,synthetic
+SYN-0474,Noise from nearby work is affecting the quiet environment at the canteen.,Noise Pollution,synthetic
+SYN-0556,Electricity appears to be wasted near the bus stop.,Energy-related Issues,synthetic
+SYN-0002,The dustbin at the main entrance is overflowing.,Waste Management,synthetic
+SYN-0527,An electrical fitting near the campus road needs maintenance.,Energy-related Issues,synthetic
+SYN-0414,Continuous drilling noise is coming from beside the hostel.,Noise Pollution,synthetic
+SYN-0119,Plastic wrappers and food waste are scattered around the workshop.,Waste Management,synthetic
+SYN-0332,Fumes from equipment are affecting the administration office.,Air Pollution,synthetic
+SYN-0750,Please inspect the surroundings of the parking area for an environmental issue.,Other,synthetic
+SYN-0323,Burning leaves are producing smoke near the administration office.,Air Pollution,synthetic
+SYN-0091,There are no usable waste bins near the parking area.,Waste Management,synthetic
+SYN-0466,Vehicles are creating excessive noise near the parking area.,Noise Pollution,synthetic
+SYN-0038,Plastic wrappers and food waste are scattered around the main block.,Waste Management,synthetic
+SYN-0810,A concern about the campus environment has been raised near the science laboratory.,Other,synthetic
+SYN-0746,The surroundings of the classroom block need an environmental inspection.,Other,synthetic
+SYN-0669,Broken branches are lying near the classroom block.,Greenery / Landscaping,synthetic
+SYN-0508,Fans are running in an unoccupied the main entrance.,Energy-related Issues,synthetic
+SYN-0422,The noise from maintenance work near the science laboratory is excessive.,Noise Pollution,synthetic
+SYN-0338,Exhaust fumes are collecting near the sports ground.,Air Pollution,synthetic
+SYN-0165,The drinking water area near the main entrance is dirty.,Water / Sanitation,synthetic
+SYN-0108,Mixed garbage is piling up outside the parking area.,Waste Management,synthetic
+SYN-0329,Smoke is spreading across the courtyard.,Air Pollution,synthetic
+SYN-0342,Someone is burning waste near the classroom block.,Air Pollution,synthetic
+SYN-0700,The trees around the main block need maintenance.,Greenery / Landscaping,synthetic
+SYN-0357,Smoke is spreading across the second-floor corridor.,Air Pollution,synthetic
+SYN-0687,The landscaped area at the administration office is full of weeds.,Greenery / Landscaping,synthetic
+SYN-0650,The green space near the parking area requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0745,The area near the library requires a general environmental review.,Other,synthetic
+SYN-0447,Loudspeakers near the main block are being used at high volume.,Noise Pollution,synthetic
+SYN-0600,A switch near the garden does not control the lights properly.,Energy-related Issues,synthetic
+SYN-0186,The washroom near the classroom block requires cleaning.,Water / Sanitation,synthetic
+SYN-0285,Smoke is spreading across the classroom block.,Air Pollution,synthetic
+SYN-0453,A machine near the auditorium is making a very loud sound.,Noise Pollution,synthetic
+SYN-0532,Electricity appears to be wasted near the washroom.,Energy-related Issues,synthetic
+SYN-0697,The garden beside the classroom block is poorly maintained.,Greenery / Landscaping,synthetic
+SYN-0180,There is standing water near the campus road after cleaning.,Water / Sanitation,synthetic
+SYN-0042,Waste is attracting flies near the hostel.,Waste Management,synthetic
+SYN-0743,Please inspect the surroundings of the campus road for an environmental issue.,Other,synthetic
+SYN-0276,Waste burning near the auditorium is causing air pollution.,Air Pollution,synthetic
+SYN-0022,Litter is spreading around the second-floor corridor after lunch.,Waste Management,synthetic
+SYN-0602,Plants near the classroom block are drying out and need watering.,Greenery / Landscaping,synthetic
+SYN-0590,The lights in the campus road are not turning off.,Energy-related Issues,synthetic
+SYN-0235,There is an unpleasant sewage smell around the second-floor corridor.,Water / Sanitation,synthetic
+SYN-0094,Waste is attracting flies near the main entrance.,Waste Management,synthetic
+SYN-0027,Mixed garbage is piling up outside the science laboratory.,Waste Management,synthetic
+SYN-0257,Waste burning near the library is causing air pollution.,Air Pollution,synthetic
+SYN-0619,The landscaped area at the washroom is full of weeds.,Greenery / Landscaping,synthetic
+SYN-0331,Dust is spreading from the road near the garden.,Air Pollution,synthetic
+SYN-0443,Continuous drilling noise is coming from beside the garden.,Noise Pollution,synthetic
+SYN-0041,The waste collection area near the sports ground smells unpleasant.,Waste Management,synthetic
+SYN-0613,Garden waste has been left near the administration office.,Greenery / Landscaping,synthetic
+SYN-0083,Plastic wrappers and food waste are scattered around the bus stop.,Waste Management,synthetic
+SYN-0449,Excessive honking is disturbing the area around the hostel.,Noise Pollution,synthetic
+SYN-0506,The outdoor lights near the water station remain on during daylight.,Energy-related Issues,synthetic
+SYN-0553,An electrical fitting near the main block needs maintenance.,Energy-related Issues,synthetic
+SYN-0513,Lights are remaining switched on in the empty the main block.,Energy-related Issues,synthetic
+SYN-0279,Exhaust fumes are collecting near the water station.,Air Pollution,synthetic
+SYN-0413,Loud machinery is disturbing people near the main block.,Noise Pollution,synthetic
+SYN-0736,An environmental issue was noticed near the garden but its category is unclear.,Other,synthetic
+SYN-0480,Continuous drilling noise is coming from beside the canteen.,Noise Pollution,synthetic
+SYN-0128,The sanitation facilities near the main block need maintenance.,Water / Sanitation,synthetic
+SYN-0450,Generator noise is disturbing people near the hostel.,Noise Pollution,synthetic
+SYN-0693,Plants near the auditorium have been damaged.,Greenery / Landscaping,synthetic
+SYN-0718,The plants around the sports ground are not being maintained.,Greenery / Landscaping,synthetic
+SYN-0610,Leaves and branches are blocking the walkway near the hostel.,Greenery / Landscaping,synthetic
+SYN-0315,Dust is spreading from the road near the bus stop.,Air Pollution,synthetic
+SYN-0170,There is an unpleasant sewage smell around the washroom.,Water / Sanitation,synthetic
+SYN-0716,The plants around the courtyard are not being maintained.,Greenery / Landscaping,synthetic
+SYN-0074,Waste is attracting flies near the campus road.,Waste Management,synthetic
+SYN-0146,The sanitation facilities near the auditorium need maintenance.,Water / Sanitation,synthetic
+SYN-0273,Burning leaves are producing smoke near the courtyard.,Air Pollution,synthetic
+SYN-0840,An environmental maintenance concern was noticed at the courtyard.,Other,synthetic
+SYN-0664,Plants near the parking area have been damaged.,Greenery / Landscaping,synthetic
+SYN-0231,There is an unpleasant sewage smell around the main block.,Water / Sanitation,synthetic
+SYN-0558,Several lights near the courtyard are damaged.,Energy-related Issues,synthetic
+SYN-0118,Litter is spreading around the hostel after lunch.,Waste Management,synthetic
+SYN-0828,There is an unusual environmental concern near the back gate.,Other,synthetic
+SYN-0203,There is standing water near the library after cleaning.,Water / Sanitation,synthetic
+SYN-0678,Plants near the garden have been damaged.,Greenery / Landscaping,synthetic
+SYN-0785,The surroundings of the garden need an environmental inspection.,Other,synthetic
+SYN-0712,The green space near the classroom block requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0710,Plants near the science laboratory have been damaged.,Greenery / Landscaping,synthetic
+SYN-0240,There is an unpleasant sewage smell around the bus stop.,Water / Sanitation,synthetic
+SYN-0073,Mixed garbage is piling up outside the main block.,Waste Management,synthetic
+SYN-0806,There is an unusual environmental concern near the hostel.,Other,synthetic
+SYN-0794,A concern about the campus environment has been raised near the second-floor corridor.,Other,synthetic
+SYN-0296,Exhaust fumes are collecting near the canteen.,Air Pollution,synthetic
+SYN-0238,The washbasins at the campus road are not draining properly.,Water / Sanitation,synthetic
+SYN-0034,Food waste has been left unattended near the garden.,Waste Management,synthetic
+SYN-0299,Dust clouds are entering the courtyard during construction.,Air Pollution,synthetic
+SYN-0482,A faulty light is flickering near the canteen.,Energy-related Issues,synthetic
+SYN-0609,The garden beside the back gate is poorly maintained.,Greenery / Landscaping,synthetic
+SYN-0724,The surroundings of the main block need an environmental inspection.,Other,synthetic
+SYN-0419,Generator noise is disturbing people near the bus stop.,Noise Pollution,synthetic
+SYN-0003,Garbage has accumulated near the auditorium and has not been collected.,Waste Management,synthetic
+SYN-0793,Please review an unspecified environmental issue at the sports ground.,Other,synthetic
+SYN-0077,Mixed garbage is piling up outside the water station.,Waste Management,synthetic
+SYN-0566,The lighting system near the washroom is consuming energy unnecessarily.,Energy-related Issues,synthetic
+SYN-0178,The drinking water area near the water station is dirty.,Water / Sanitation,synthetic
+SYN-0246,Fumes from equipment are affecting the auditorium.,Air Pollution,synthetic
+SYN-0161,A water tap is leaking near the main block.,Water / Sanitation,synthetic
+SYN-0084,Waste is being dumped beside the main entrance.,Waste Management,synthetic
+SYN-0677,Plants near the library are drying out and need watering.,Greenery / Landscaping,synthetic
+SYN-0271,Someone is burning waste near the second-floor corridor.,Air Pollution,synthetic
+SYN-0217,The drain near the courtyard is blocked.,Water / Sanitation,synthetic
+SYN-0641,The grass around the library has become overgrown.,Greenery / Landscaping,synthetic
+SYN-0213,The drinking water area near the classroom block is dirty.,Water / Sanitation,synthetic
+SYN-0102,Garbage has accumulated near the washroom and has not been collected.,Waste Management,synthetic
+SYN-0625,The landscaped area at the main block is full of weeds.,Greenery / Landscaping,synthetic
+SYN-0062,Waste is being dumped beside the administration office.,Waste Management,synthetic
+SYN-0636,The plants around the washroom are not being maintained.,Greenery / Landscaping,synthetic
+SYN-0583,Lights are remaining switched on in the empty the water station.,Energy-related Issues,synthetic
+SYN-0313,Smoke is spreading across the back gate.,Air Pollution,synthetic
+SYN-0440,Repeated loud announcements are disturbing the science laboratory.,Noise Pollution,synthetic
+SYN-0603,The landscaped area at the canteen is full of weeds.,Greenery / Landscaping,synthetic
+SYN-0305,Fumes from equipment are affecting the classroom block.,Air Pollution,synthetic
+SYN-0454,The noise from maintenance work near the garden is excessive.,Noise Pollution,synthetic
+SYN-0462,Excessive honking is disturbing the area around the washroom.,Noise Pollution,synthetic
+SYN-0390,Construction noise can be heard inside the sports ground.,Noise Pollution,synthetic
+SYN-0536,A faulty light is flickering near the parking area.,Energy-related Issues,synthetic
+SYN-0232,There is an unpleasant sewage smell around the workshop.,Water / Sanitation,synthetic
+SYN-0634,A damaged plant bed near the science laboratory needs attention.,Greenery / Landscaping,synthetic
+SYN-0611,The green space near the campus road requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0621,The plants around the parking area are not being maintained.,Greenery / Landscaping,synthetic
+SYN-0427,Noise from nearby work is affecting the quiet environment at the sports ground.,Noise Pollution,synthetic
+SYN-0572,The outdoor lights near the hostel remain on during daylight.,Energy-related Issues,synthetic
+SYN-0122,Water is stagnating beside the administration office.,Water / Sanitation,synthetic
+SYN-0255,Exhaust fumes are collecting near the hostel.,Air Pollution,synthetic
+SYN-0088,The garbage collection point at the back gate needs attention.,Waste Management,synthetic
+SYN-0312,Someone is burning waste near the administration office.,Air Pollution,synthetic
+SYN-0577,Several lights near the campus road are damaged.,Energy-related Issues,synthetic
+SYN-0153,There is standing water near the washroom after cleaning.,Water / Sanitation,synthetic
+SYN-0156,The sanitation facilities near the workshop need maintenance.,Water / Sanitation,synthetic
+SYN-0055,Garbage has accumulated near the workshop and has not been collected.,Waste Management,synthetic
+SYN-0703,The green space near the administration office requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0645,The plants around the canteen are not being maintained.,Greenery / Landscaping,synthetic
+SYN-0591,An electrical fitting near the canteen needs maintenance.,Energy-related Issues,synthetic
+SYN-0076,Mixed garbage is piling up outside the workshop.,Waste Management,synthetic
+SYN-0504,A switch near the campus road does not control the lights properly.,Energy-related Issues,synthetic
+SYN-0411,Loudspeakers near the garden are being used at high volume.,Noise Pollution,synthetic
+SYN-0067,Plastic wrappers and food waste are scattered around the second-floor corridor.,Waste Management,synthetic
+SYN-0117,Waste is attracting flies near the sports ground.,Waste Management,synthetic
+SYN-0490,Electricity appears to be wasted near the auditorium.,Energy-related Issues,synthetic
+SYN-0259,Smoke is spreading across the bus stop.,Air Pollution,synthetic
+SYN-0053,Waste is attracting flies near the courtyard.,Waste Management,synthetic
+SYN-0189,A water tap is leaking near the back gate.,Water / Sanitation,synthetic
+SYN-0349,Exhaust fumes are collecting near the courtyard.,Air Pollution,synthetic
+SYN-0452,The noise from maintenance work near the workshop is excessive.,Noise Pollution,synthetic
+SYN-0491,Fans are running in an unoccupied the hostel.,Energy-related Issues,synthetic
+SYN-0481,The lights in the garden are not turning off.,Energy-related Issues,synthetic
+SYN-0292,Waste burning near the bus stop is causing air pollution.,Air Pollution,synthetic
+SYN-0588,The lights in the auditorium are not turning off.,Energy-related Issues,synthetic
+SYN-0013,Litter is spreading around the campus road after lunch.,Waste Management,synthetic
+SYN-0106,Litter is spreading around the sports ground after lunch.,Waste Management,synthetic
+SYN-0830,The area near the auditorium requires a general environmental review.,Other,synthetic
+SYN-0654,The garden beside the water station is poorly maintained.,Greenery / Landscaping,synthetic
+SYN-0770,An environmental maintenance concern was noticed at the bus stop.,Other,synthetic
+SYN-0715,Garden waste has been left near the workshop.,Greenery / Landscaping,synthetic
+SYN-0300,Smoke is spreading across the main block.,Air Pollution,synthetic
+SYN-0815,The campus environment near the library may require further assessment.,Other,synthetic
+SYN-0056,The bins near the courtyard have not been emptied for several days.,Waste Management,synthetic
+SYN-0047,The garbage collection point at the garden needs attention.,Waste Management,synthetic
+SYN-0281,Smoke is spreading across the campus road.,Air Pollution,synthetic
+SYN-0130,Water is stagnating beside the campus road.,Water / Sanitation,synthetic
+SYN-0547,A switch near the courtyard does not control the lights properly.,Energy-related Issues,synthetic
+SYN-0726,An environmental issue was noticed near the parking area but its category is unclear.,Other,synthetic
+SYN-0015,Food waste has been left unattended near the workshop.,Waste Management,synthetic
+SYN-0310,Fumes from equipment are affecting the main entrance.,Air Pollution,synthetic
+SYN-0184,A water tap is leaking near the parking area.,Water / Sanitation,synthetic
+SYN-0370,Excessive honking is disturbing the area around the main block.,Noise Pollution,synthetic
+SYN-0233,The drain near the auditorium is overflowing.,Water / Sanitation,synthetic
+SYN-0304,The air around the bus stop smells strongly of fumes.,Air Pollution,synthetic
+SYN-0199,The drinking water area near the library is dirty.,Water / Sanitation,synthetic
+SYN-0103,Plastic wrappers and food waste are scattered around the back gate.,Waste Management,synthetic
+SYN-0290,The air around the main block smells strongly of fumes.,Air Pollution,synthetic
+SYN-0612,A damaged plant bed near the garden needs attention.,Greenery / Landscaping,synthetic
+SYN-0538,A faulty light is flickering near the science laboratory.,Energy-related Issues,synthetic
+SYN-0779,The area near the canteen requires a general environmental review.,Other,synthetic
+SYN-0604,The grass around the science laboratory has become overgrown.,Greenery / Landscaping,synthetic
+SYN-0742,An environmental issue was noticed near the hostel but its category is unclear.,Other,synthetic
+SYN-0284,Fumes from equipment are affecting the courtyard.,Air Pollution,synthetic
+SYN-0496,An electrical fitting near the classroom block needs maintenance.,Energy-related Issues,synthetic
+SYN-0757,There is an unusual environmental concern near the canteen.,Other,synthetic
+SYN-0222,The sanitation facilities near the campus road need maintenance.,Water / Sanitation,synthetic
+SYN-0197,Water is stagnating beside the classroom block.,Water / Sanitation,synthetic
+SYN-0190,The drain near the classroom block is overflowing.,Water / Sanitation,synthetic
+SYN-0707,The green space near the water station requires cleaning and care.,Greenery / Landscaping,synthetic
+SYN-0781,An environmental maintenance concern was noticed at the water station.,Other,synthetic
+SYN-0549,An electrical fitting near the courtyard needs maintenance.,Energy-related Issues,synthetic
+SYN-0761,The campus environment near the science laboratory may require further assessment.,Other,synthetic
+SYN-0123,The drinking water area near the garden is dirty.,Water / Sanitation,synthetic
+SYN-0324,Someone is burning waste near the main block.,Air Pollution,synthetic
+SYN-0198,There is standing water near the second-floor corridor after cleaning.,Water / Sanitation,synthetic
+SYN-0739,The area near the science laboratory requires a general environmental review.,Other,synthetic
+SYN-0124,The drinking water area near the auditorium is dirty.,Water / Sanitation,synthetic
+SYN-0237,The washbasins at the workshop are not draining properly.,Water / Sanitation,synthetic
+SYN-0258,Dust is spreading from the road near the auditorium.,Air Pollution,synthetic
+SYN-0820,The environmental condition around the water station needs attention.,Other,synthetic
+SYN-0278,The air around the workshop smells strongly of fumes.,Air Pollution,synthetic
+SYN-0465,Noise from nearby work is affecting the quiet environment at the courtyard.,Noise Pollution,synthetic
+SYN-0720,A damaged plant bed near the bus stop needs attention.,Greenery / Landscaping,synthetic
+SYN-0361,Loudspeakers near the sports ground are being used at high volume.,Noise Pollution,synthetic
+SYN-0339,Burning leaves are producing smoke near the bus stop.,Air Pollution,synthetic
+SYN-0564,The lighting system near the main block is consuming energy unnecessarily.,Energy-related Issues,synthetic
+SYN-0764,The area near the campus road requires a general environmental review.,Other,synthetic
+SYN-0436,Loudspeakers near the water station are being used at high volume.,Noise Pollution,synthetic
+SYN-0353,Burning leaves are producing smoke near the workshop.,Air Pollution,synthetic
+SYN-0544,A faulty light is flickering near the sports ground.,Energy-related Issues,synthetic
+SYN-0567,The lights in the library are not turning off.,Energy-related Issues,synthetic
+SYN-0485,The lights in the courtyard are not turning off.,Energy-related Issues,synthetic
+SYN-0378,Vehicles are creating excessive noise near the sports ground.,Noise Pollution,synthetic
+SYN-0596,A corridor light near the main entrance is not working.,Energy-related Issues,synthetic
+SYN-0680,A damaged plant bed near the second-floor corridor needs attention.,Greenery / Landscaping,synthetic
+SYN-0314,The air quality around the main entrance seems poor because of dust.,Air Pollution,synthetic
+SYN-0250,Waste burning near the workshop is causing air pollution.,Air Pollution,synthetic
+SYN-0709,A damaged plant bed near the hostel needs attention.,Greenery / Landscaping,synthetic
+SYN-0415,Noise from nearby work is affecting the quiet environment at the water station.,Noise Pollution,synthetic
+SYN-0227,The drain near the hostel is overflowing.,Water / Sanitation,synthetic
+SYN-0302,The air around the sports ground smells strongly of fumes.,Air Pollution,synthetic
+SYN-0096,Garbage has accumulated near the back gate and has not been collected.,Waste Management,synthetic
+SYN-0018,Garbage has accumulated near the sports ground and has not been collected.,Waste Management,synthetic
+SYN-0812,There is an unresolved environmental concern around the library.,Other,synthetic
+SYN-0459,Continuous drilling noise is coming from beside the courtyard.,Noise Pollution,synthetic
+SYN-0503,An electrical fitting near the administration office needs maintenance.,Energy-related Issues,synthetic
+SYN-0729,An environmental issue was noticed near the bus stop but its category is unclear.,Other,synthetic
+SYN-0662,The trees around the auditorium need maintenance.,Greenery / Landscaping,synthetic
+SYN-0488,A corridor light near the second-floor corridor is not working.,Energy-related Issues,synthetic
+SYN-0708,Leaves and branches are blocking the walkway near the second-floor corridor.,Greenery / Landscaping,synthetic
+SYN-0247,Exhaust fumes are collecting near the parking area.,Air Pollution,synthetic
+SYN-0777,An environmental maintenance concern was noticed at the washroom.,Other,synthetic
+SYN-0569,A corridor light near the library is not working.,Energy-related Issues,synthetic
+SYN-0501,The outdoor lights near the main block remain on during daylight.,Energy-related Issues,synthetic
+SYN-0417,A machine near the courtyard is making a very loud sound.,Noise Pollution,synthetic
+SYN-0738,An environmental issue was noticed near the sports ground but its category is unclear.,Other,synthetic
