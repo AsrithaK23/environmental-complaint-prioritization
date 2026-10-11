@@ -13,7 +13,7 @@ Defines the standard complaint categories used across the dataset, ML model, bac
 | **Noise Pollution** | Excessive or disturbing noise from machinery, construction, vehicles, or loudspeakers. |
 | **Energy-related Issues** | Electricity wastage, faulty lighting, and inefficient energy usage. |
 | **Greenery / Landscaping** | Plant damage, garden maintenance, overgrown grass, and fallen branches. |
-| **Other** | Environmental complaints that do not fit the above categories or lack sufficient information for classification. |
+| **Other** || **Other** | Campus infrastructure or maintenance complaints that do not fit any of the six specific categories, such as broken benches, signboards, or railings. | |
 
 ## Labelling Rules
 
