@@ -1,0 +1,7 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Locally generated candidate model artifacts
+ml/models/*_candidate.pkl
