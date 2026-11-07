@@ -1,42 +1,39 @@
-import os
+
+from pathlib import Path
 import joblib
 import numpy as np
 
-from preprocessing import clean_text
+try:
+    from .preprocessing import clean_text
+except ImportError:
+    from preprocessing import clean_text
 
 
 # ============================================================
 # MODEL PATHS
 # ============================================================
 
-BASE_DIR = os.path.dirname(
-    os.path.abspath(__file__)
-)
+BASE_DIR = Path(__file__).resolve().parent
+MODEL_DIR = BASE_DIR / "models"
 
-MODEL_PATH = os.path.join(
-    BASE_DIR,
-    "models",
-    "complaint_classifier.pkl"
-)
-
-VECTORIZER_PATH = os.path.join(
-    BASE_DIR,
-    "models",
-    "tfidf_vectorizer.pkl"
-)
+MODEL_PATH = MODEL_DIR / "complaint_classifier_candidate.pkl"
+VECTORIZER_PATH = MODEL_DIR / "tfidf_vectorizer_candidate.pkl"
 
 
 # ============================================================
 # LOAD MODEL
 # ============================================================
 
-model = joblib.load(
-    MODEL_PATH
-)
+if not MODEL_PATH.exists():
+    raise FileNotFoundError(f"Model file not found: {MODEL_PATH}")
 
-vectorizer = joblib.load(
-    VECTORIZER_PATH
-)
+if not VECTORIZER_PATH.exists():
+    raise FileNotFoundError(
+        f"Vectorizer file not found: {VECTORIZER_PATH}"
+    )
+
+model = joblib.load(MODEL_PATH)
+vectorizer = joblib.load(VECTORIZER_PATH)
 
 
 # ============================================================
@@ -45,53 +42,41 @@ vectorizer = joblib.load(
 
 def predict_complaint(complaint_text):
     """
-    Predict the environmental complaint category.
+    Predict an environmental complaint category.
 
-    Input:
-        complaint_text: string
-
-    Output:
+    Returns:
         {
-            "category": predicted category,
-            "confidence": confidence score
+            "category": str,
+            "confidence": float,
+            "needs_review": bool
         }
     """
 
-    if not complaint_text or not str(complaint_text).strip():
+    if complaint_text is None or not str(complaint_text).strip():
+        raise ValueError("Complaint text cannot be empty.")
+
+    cleaned_text = clean_text(complaint_text)
+
+    if not cleaned_text:
         raise ValueError(
-            "Complaint text cannot be empty."
+            "Complaint text contains no usable text after cleaning."
         )
 
-    # Clean complaint
-    cleaned_text = clean_text(
-        complaint_text
-    )
+    text_vector = vectorizer.transform([cleaned_text])
 
-    # Convert text to TF-IDF
-    text_vector = vectorizer.transform(
-        [cleaned_text]
-    )
+    prediction = model.predict(text_vector)[0]
 
-    # Predict category
-    prediction = model.predict(
-        text_vector
-    )[0]
+    probabilities = model.predict_proba(text_vector)[0]
+    confidence = float(np.max(probabilities))
 
-    # Calculate confidence
-    probabilities = model.predict_proba(
-        text_vector
-    )[0]
-
-    confidence = float(
-        np.max(probabilities)
-    )
+    # Initial review rule, to be validated with real data.
+    # This is not a calibrated probability threshold.
+    needs_review = confidence < 0.60
 
     return {
         "category": str(prediction),
-        "confidence": round(
-            confidence,
-            4
-        )
+        "confidence": round(confidence, 4),
+        "needs_review": needs_review,
     }
 
 
@@ -100,35 +85,25 @@ def predict_complaint(complaint_text):
 # ============================================================
 
 if __name__ == "__main__":
-
-    print("===================================")
+    print("=" * 50)
     print("Environmental Complaint Classifier")
-    print("===================================")
+    print("=" * 50)
 
-    complaint = input(
-        "\nEnter complaint: "
-    )
+    while True:
+        complaint = input(
+            "\nEnter complaint (or type 'exit' to quit): "
+        ).strip()
 
-    try:
+        if complaint.lower() == "exit":
+            break
 
-        result = predict_complaint(
-            complaint
-        )
+        try:
+            result = predict_complaint(complaint)
 
-        print("\nPrediction:")
-        print(
-            "Category:",
-            result["category"]
-        )
+            print("\nPrediction:")
+            print("Category:", result["category"])
+            print("Confidence:", result["confidence"])
+            print("Needs review:", result["needs_review"])
 
-        print(
-            "Confidence:",
-            result["confidence"]
-        )
-
-    except Exception as error:
-
-        print(
-            "\nError:",
-            error
-        )
+        except ValueError as error:
+            print("Input error:", error)
