@@ -5,3 +5,5 @@ __pycache__/
 
 # Locally generated candidate model artifacts
 ml/models/*_candidate.pkl
+.vercel
+.env*
