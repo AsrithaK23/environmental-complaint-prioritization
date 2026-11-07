@@ -1,4 +1,6 @@
 from fastapi import FastAPI
+from backend.app.config import settings
+from fastapi.middleware.cors import CORSMiddleware
 from backend.app.admin.routes import (
     router as admin_router,
     users_router,
@@ -13,6 +15,20 @@ from backend.app.complaints.routes import (
 app = FastAPI(
     title="Environmental Complaint Prioritization API",
     version="1.0.0",
+)
+
+origins = [
+    origin.strip()
+    for origin in settings.cors_origins.split(",")
+    if origin.strip()
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
 )
 
 app.include_router(auth_router, prefix="/api")

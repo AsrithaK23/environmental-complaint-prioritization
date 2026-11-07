@@ -19,7 +19,7 @@ class Settings(BaseSettings):
 
     upload_dir: str = "backend/uploads"
     max_image_mb: int = 5
-    cors_origins: str = "http://localhost:5173"
+    cors_origins: str = "http://localhost:5173"   #CORS_ORIGINS=https://your-frontend.onrender.com
 
     model_config = SettingsConfigDict(
         env_file=PROJECT_ROOT / ".env",
