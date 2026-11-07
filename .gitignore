@@ -1,4 +1,3 @@
-
 # Python virtual environments
 .venv/
 venv/
@@ -21,3 +20,9 @@ backend/uploads/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Locally generated candidate model artifacts
+ml/models/*_candidate.pkl
+
+# Vercel configuration
+.vercel/
